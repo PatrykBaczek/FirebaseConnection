@@ -1,4 +1,4 @@
 /env/
 accountKey.json
 conn.py
-__pycache__
+__pycache__/
